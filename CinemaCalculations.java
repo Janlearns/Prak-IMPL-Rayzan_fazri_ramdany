@@ -1,5 +1,5 @@
 
-class CinemaCalculations extends Cinema {
+class CinemaCalculations {
 
     public Double calculateAdminFee(Cinema cinema) {
         if (cinema instanceof StandardCinema) {
