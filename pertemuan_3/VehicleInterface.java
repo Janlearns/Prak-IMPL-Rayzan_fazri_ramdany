@@ -4,6 +4,4 @@ interface VehicleInterface {
     void stop();
 
     void refuel();
-
-    void openDoors();
 }
